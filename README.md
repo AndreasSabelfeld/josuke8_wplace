@@ -7,6 +7,10 @@ In the source file to be found are:
 - Pixel art with annotations
 - Pixel art with grid and annotations
 
+Measurements: 
+- Width: 133 px
+- Height: 192 px
+
 Josuke8 Pixel Art:
 ![Josuke8 Pixel Art](josuke8_pixel_art.jpeg)
 
